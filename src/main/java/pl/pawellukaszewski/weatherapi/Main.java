@@ -17,7 +17,7 @@ public class Main extends Application {
         primaryStage.setTitle("WeatherApp");
         primaryStage.setScene(new Scene(root, 600, 400));
         primaryStage.setResizable(true);
-        primaryStage.initStyle(StageStyle.UNDECORATED);
+        primaryStage.initStyle(StageStyle.DECORATED);
         primaryStage.setAlwaysOnTop(false);
         primaryStage.getIcons().add(new Image("https://cdn3.iconfinder.com/data/icons/weather-and-forecast/51/Weather_icons_grey-03-512.png"));
         primaryStage.show();
