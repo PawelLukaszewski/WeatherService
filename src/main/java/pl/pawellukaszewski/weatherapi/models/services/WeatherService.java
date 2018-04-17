@@ -24,6 +24,7 @@ public class WeatherService {
         return ourInstance;
     }
 
+
     private List<IWeatherObserver> observer = new ArrayList<>();
 
     private ExecutorService executorService;

@@ -24,6 +24,7 @@ public class MySQLConnector {
         }
     }
 
+
     //Singleton
     public static MySQLConnector getInstance() {
         if (instance == null) {
