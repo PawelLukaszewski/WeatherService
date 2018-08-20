@@ -15,13 +15,13 @@ I created this application to learn how to use external APIs and also expand my 
 
 City search section and weather checking:
 
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./screenshot.png)
 
 
 The weather history section:
 
 
-![Example screenshot](./img/screenshot2.png)
+![Example screenshot](./screenshot2.png)
 
 ## Technologies
 * Java 8
