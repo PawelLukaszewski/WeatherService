@@ -18,7 +18,7 @@ City search section and weather checking:
 ![Example screenshot](./screenshot.png)
 
 
-The weather history section:
+The  weather history section:
 
 
 ![Example screenshot](./screenshot2.png)
